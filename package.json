@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-d1-worker",
+  "version": "1.0.0",
+  "description": "Cloudflare Workers D1 SQL storage gateway powered by kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.0"
+  },
+  "license": "MIT"
+}
